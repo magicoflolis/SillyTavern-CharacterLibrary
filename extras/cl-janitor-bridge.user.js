@@ -11,6 +11,7 @@
 // @grant        GM.xmlHttpRequest
 // @grant        GM_openInTab
 // @grant        GM_cookie
+// @grant        GM_info
 // @run-at       document-idle
 // ==/UserScript==
 
